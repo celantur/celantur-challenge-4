@@ -24,7 +24,7 @@ If you are solving this challenge as part of our *interview process*, please rea
 
 <small>Image credit: Photo by [Omar Lopez](https://unsplash.com/photos/rwF_pJRWhAI) on [Unsplash](https://unsplash.com/).</small>
 
-The winner of [the monthly leaderboard](./Leaderboard.md) will be awarded a prize 🏆 in the form of an Amazon voucher. Further information will follow.
+The winner of [the bimonthly leaderboard](./Leaderboard.md) will be awarded a prize 🏆 in the form of an Amazon voucher.
 
 Don't hesitate to [write us](mailto:hello@celantur.com) if you have any questions concerning the challenge.
 
@@ -47,6 +47,15 @@ Provide us with information how to set up and run your code.
 
 Share your code with the [Celantur Bot](https://github.com/celantor).
 
+
+Prize
+------------
+
+Every 2 months, our engineering team will select the winner, who will receive a **€150 Amazon Voucher Card** (10 minimum participants). Share the challenge with your friends and acquaintances using this link:   
+
+Note that the leaderboard will be reset every 2 months. It is not possible to receive multiple voucher cards with the same code submission.
+
+
 Evaluation
 ------------
 
@@ -56,3 +65,8 @@ The reference hardware on which the algorithm will be tested is a [p3.2xlarge](h
 - 61 GiB Memory
 
 The OS is **Linux** / Ubuntu 20.04 LTS (Focal Fossa). 
+
+Your code will be reviewed by at least three of our engineers. The aspects of your code we will judge include:
+- **Performance**: Does the code do what was asked? If there is anything missing, does the README explain why it is missing?
+- **Code Quality**: Is the code simple, easy to understand, and maintainable?
+- **Technical Choices**: Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
